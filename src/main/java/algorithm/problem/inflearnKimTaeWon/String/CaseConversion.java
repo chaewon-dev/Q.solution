@@ -1,4 +1,4 @@
-package algorithm.problem.inflearnKimTaeWon;
+package algorithm.problem.inflearnKimTaeWon.String;
 
 import java.util.Scanner;
 
