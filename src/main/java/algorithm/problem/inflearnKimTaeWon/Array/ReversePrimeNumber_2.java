@@ -39,19 +39,11 @@ public class ReversePrimeNumber_2 {
 
         }
 
-        //답안 입력
         for (int i = 0; i < n; i++) {
             if (pNum[intArr[i]] == 0) {
                 answer.add(intArr[i]);
             }
         }
-
-        //revser출력
-/*        for (int s : intArr) {
-            System.out.println("s = " + s);
-        }*/
-
-
         return answer;
     }
 
