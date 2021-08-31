@@ -1,6 +1,5 @@
-package algorithm.problem.inflearnKimTaeWon.String;
+package algorithm.problem.inflearnKimTaeWon.string;
 
-import java.sql.Array;
 import java.util.ArrayList;
 import java.util.Scanner;
 

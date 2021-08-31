@@ -1,6 +1,5 @@
-package algorithm.problem.inflearnKimTaeWon.String;
+package algorithm.problem.inflearnKimTaeWon.string;
 
-import java.util.Locale;
 import java.util.Scanner;
 
 public class FindLetter {

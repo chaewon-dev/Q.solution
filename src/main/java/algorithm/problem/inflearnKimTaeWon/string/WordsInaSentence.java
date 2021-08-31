@@ -1,6 +1,4 @@
-package algorithm.problem.inflearnKimTaeWon.String;
-
-import com.sun.source.tree.ReturnTree;
+package algorithm.problem.inflearnKimTaeWon.string;
 
 import java.util.Scanner;
 

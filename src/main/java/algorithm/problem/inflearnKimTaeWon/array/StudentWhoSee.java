@@ -1,6 +1,5 @@
-package algorithm.problem.inflearnKimTaeWon.Array;
+package algorithm.problem.inflearnKimTaeWon.array;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
 public class StudentWhoSee {
