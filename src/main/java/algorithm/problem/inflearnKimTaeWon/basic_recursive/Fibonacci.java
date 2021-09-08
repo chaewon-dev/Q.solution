@@ -1,4 +1,4 @@
-package algorithm.problem.inflearnKimTaeWon.recursive_tree_graph_basic;
+package algorithm.problem.inflearnKimTaeWon.basic_recursive;
 
 public class Fibonacci {
     static int[] fibo;
